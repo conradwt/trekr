@@ -32,7 +32,7 @@ Command + R
 
 ## Support
 
-Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
+Bug reports and feature requests can be filed for this iOS project here:
 
 - [File Bug Reports and Features](https://github.com/conradwt/trekr/issues)
 
